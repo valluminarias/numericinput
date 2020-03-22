@@ -3,6 +3,7 @@
   "description": "Numeric Input Component for VueJS",
   "keywords": ["numeric", "input", "vuejs"],
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
